@@ -4286,6 +4286,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2025-03-18 00:04:31 +0000",
       "wheat": "2025-03-15 19:11:33 +0000"
     },
     "done": false
@@ -4881,6 +4882,12 @@
   "botania:recipes/tools/mana_mirror": {
     "criteria": {
       "has_item": "2025-03-17 13:12:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-17 23:51:19 +0000"
     },
     "done": true
   },

@@ -92,3 +92,5 @@
 [17Mar2025 23:40:19.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> vale pss yo me voy a la cama pero lo dejo escrito por whatsapp vale?
 [17Mar2025 23:40:24.862] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Montirizo lost connection: Disconnected
 [17Mar2025 23:40:24.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Montirizo left the game
+[17Mar2025 23:51:19.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pakar has made the advancement [Not Today, Thank You]
+[17Mar2025 23:58:35.529] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/119, l='ServerLevel[world]', x=-436.46, y=75.33, z=305.40, removed=DISCARDED]

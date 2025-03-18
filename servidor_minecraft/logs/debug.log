@@ -4419,3 +4419,16 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [17Mar2025 23:40:24.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Montirizo left the game
 [17Mar2025 23:43:05.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Mar2025 23:43:05.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Mar2025 23:48:00.479] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[17Mar2025 23:48:05.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Mar2025 23:48:05.699] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Mar2025 23:51:19.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pakar has made the advancement [Not Today, Thank You]
+[17Mar2025 23:53:05.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Mar2025 23:53:05.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Mar2025 23:58:05.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Mar2025 23:58:05.684] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Mar2025 23:58:35.529] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/119, l='ServerLevel[world]', x=-436.46, y=75.33, z=305.40, removed=DISCARDED]
+[18Mar2025 00:03:05.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 00:03:05.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 00:08:05.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 00:08:05.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
