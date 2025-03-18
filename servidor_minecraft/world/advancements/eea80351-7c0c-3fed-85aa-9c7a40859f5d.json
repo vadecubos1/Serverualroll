@@ -6094,15 +6094,21 @@
     },
     "done": true
   },
-  "botania:recipes/misc/lens_redirect": {
-    "criteria": {
-      "has_item": "2025-03-18 22:45:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-03-18 22:40:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-03-18 22:40:39 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_redirect": {
+    "criteria": {
+      "has_item": "2025-03-18 22:45:18 +0000"
     },
     "done": true
   },
@@ -6247,12 +6253,6 @@
   "botania:recipes/combat/elementium_chestplate": {
     "criteria": {
       "has_item": "2025-03-18 22:45:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/snow_block": {
-    "criteria": {
-      "has_snowball": "2025-03-18 22:40:39 +0000"
     },
     "done": true
   },

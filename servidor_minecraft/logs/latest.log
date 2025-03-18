@@ -217,3 +217,7 @@
 [18Mar2025 22:44:06.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Montirizo left the game
 [18Mar2025 22:46:42.488] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pakar lost connection: Disconnected
 [18Mar2025 22:46:42.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pakar left the game
+[18Mar2025 23:02:33.203] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pakar[/127.8.43.195:51225] logged in with entity id 7806 at (-449.95964819998443, 63.125, 265.72968223798455)
+[18Mar2025 23:02:33.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pakar joined the game
+[18Mar2025 23:02:33.230] [Server thread/INFO] [Jade/]: Syncing config to Pakar (eea80351-7c0c-3fed-85aa-9c7a40859f5d)
+[18Mar2025 23:03:53.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pakar> hola
