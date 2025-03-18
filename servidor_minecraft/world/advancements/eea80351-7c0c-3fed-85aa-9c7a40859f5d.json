@@ -588,6 +588,7 @@
       "minecraft:spider": "2025-03-13 20:12:25 +0000",
       "minecraft:creeper": "2025-03-15 14:43:43 +0000",
       "minecraft:phantom": "2025-03-15 15:04:41 +0000",
+      "minecraft:enderman": "2025-03-18 12:24:57 +0000",
       "minecraft:zombie": "2025-03-13 20:13:06 +0000",
       "minecraft:drowned": "2025-03-15 14:47:38 +0000"
     },
@@ -4888,6 +4889,18 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-03-17 23:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-03-18 12:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-03-18 12:26:24 +0000"
     },
     "done": true
   },
