@@ -700,6 +700,7 @@
       "cooked_beef": "2025-03-13 11:13:10 +0000",
       "beef": "2025-03-13 11:11:30 +0000",
       "baked_potato": "2025-03-13 16:19:12 +0000",
+      "apple": "2025-03-18 10:54:24 +0000",
       "bread": "2025-03-13 13:29:59 +0000",
       "rotten_flesh": "2025-03-13 16:51:26 +0000",
       "golden_carrot": "2025-03-14 10:24:33 +0000",
@@ -6892,6 +6893,30 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-03-17 12:41:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/bellows": {
+    "criteria": {
+      "has_item": "2025-03-18 10:59:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/slingshot": {
+    "criteria": {
+      "has_item": "2025-03-18 10:59:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/tornado_rod": {
+    "criteria": {
+      "has_item": "2025-03-18 10:59:34 +0000"
+    },
+    "done": true
+  },
+  "botania:main/tiny_potato_pet": {
+    "criteria": {
+      "code_triggered": "2025-03-18 11:02:30 +0000"
     },
     "done": true
   },
