@@ -11,6 +11,14 @@ relics = true
 #Set this to true to invert the Ring of Magnetization's controls (from shift to stop to shift to work)
 invertMagnetRing = false
 
+[harvestLevels]
+	#The harvest level of the Mana Lens: Weight. 3 is diamond level. Defaults to 2 (iron level)
+	#Range: > 0
+	weightLens = 2
+	#The harvest level of the Mana Lens: Bore. 3 is diamond level. Defaults to 3
+	#Range: > 0
+	boreLens = 3
+
 [blockBreakingParticles]
 	#Set this to false to remove the block breaking particles from the flowers and other items in the mod.
 	enabled = true
@@ -23,14 +31,6 @@ invertMagnetRing = false
 	#How many ticks into the future will mana spreaders attempt to predict where mana bursts go? Setting this lower will improve spreader performance, but will cause them to not fire at targets that are too far away.
 	#Range: > 1
 	traceTime = 400
-
-[harvestLevels]
-	#The harvest level of the Mana Lens: Weight. 3 is diamond level. Defaults to 2 (iron level)
-	#Range: > 0
-	weightLens = 2
-	#The harvest level of the Mana Lens: Bore. 3 is diamond level. Defaults to 3
-	#Range: > 0
-	boreLens = 3
 
 [gardenOfGlass]
 	#Set this to false to disable spawning with a Lexica Botania in Garden of Glass worlds, if you are modifying the modpack's progression to not start with Botania.
