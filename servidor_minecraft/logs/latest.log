@@ -78,3 +78,8 @@
 [18Mar2025 10:21:10.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.706s)! For help, type "help"
 [18Mar2025 10:21:10.689] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [18Mar2025 10:21:10.692] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[18Mar2025 10:34:46.406] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[18Mar2025 10:34:46.543] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SF_KindPrime[/127.80.254.101:59433] logged in with entity id 92 at (-438.18190145578933, 71.0, 340.54784399983674)
+[18Mar2025 10:34:46.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SF_KindPrime joined the game
+[18Mar2025 10:34:46.642] [Server thread/INFO] [Jade/]: Syncing config to SF_KindPrime (8ac37f11-89c7-3573-a3ef-92766c917c7b)
+[18Mar2025 10:34:48.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
