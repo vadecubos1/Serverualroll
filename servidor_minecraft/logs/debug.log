@@ -4620,3 +4620,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Mar2025 22:46:42.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pakar left the game
 [18Mar2025 22:46:52.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Mar2025 22:46:52.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 22:51:52.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 22:51:52.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Mar2025 22:56:52.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Mar2025 22:56:52.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
