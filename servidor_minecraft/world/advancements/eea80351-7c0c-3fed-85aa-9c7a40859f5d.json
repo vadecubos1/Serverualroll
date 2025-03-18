@@ -6094,5 +6094,167 @@
     },
     "done": true
   },
+  "botania:recipes/misc/lens_redirect": {
+    "criteria": {
+      "has_item": "2025-03-18 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-18 22:40:39 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/spark_changer": {
+    "criteria": {
+      "has_item": "2025-03-18 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/elementium_sword": {
+    "criteria": {
+      "has_item": "2025-03-18 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/open_bucket": {
+    "criteria": {
+      "has_item": "2025-03-18 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/conjuration_catalyst": {
+    "criteria": {
+      "has_alt_item": "2025-03-18 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_tripwire": {
+    "criteria": {
+      "has_item": "2025-03-18 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/elementium_shovel": {
+    "criteria": {
+      "has_item": "2025-03-18 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/elementium_pickaxe": {
+    "criteria": {
+      "has_item": "2025-03-18 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/elementium_axe": {
+    "criteria": {
+      "has_item": "2025-03-18 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/elementium_helmet": {
+    "criteria": {
+      "has_item": "2025-03-18 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/elementium_leggings": {
+    "criteria": {
+      "has_item": "2025-03-18 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/elementium_shears": {
+    "criteria": {
+      "has_item": "2025-03-18 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/elementium_block": {
+    "criteria": {
+      "has_item": "2025-03-18 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/elementium_boots": {
+    "criteria": {
+      "has_item": "2025-03-18 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_flare": {
+    "criteria": {
+      "has_item": "2025-03-18 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/elven_spreader": {
+    "criteria": {
+      "has_item": "2025-03-18 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/elementium_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-03-18 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/slime_bottle": {
+    "criteria": {
+      "has_item": "2025-03-18 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/elementium_hoe": {
+    "criteria": {
+      "has_item": "2025-03-18 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_firework": {
+    "criteria": {
+      "has_item": "2025-03-18 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/starfield": {
+    "criteria": {
+      "has_alt_item": "2025-03-18 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/reach_ring": {
+    "criteria": {
+      "has_item": "2025-03-18 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/gaia_pylon": {
+    "criteria": {
+      "has_alt_item": "2025-03-18 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/drum_gathering": {
+    "criteria": {
+      "has_item": "2025-03-18 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/elementium_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-18 22:45:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-03-18 22:40:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

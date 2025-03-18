@@ -181,3 +181,39 @@
 [18Mar2025 22:40:55.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> NO
 [18Mar2025 22:40:56.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> NO POR FAVOR
 [18Mar2025 22:41:01.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Montirizo: Teleported Montirizo to Pakar]
+[18Mar2025 22:41:21.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> tp no tenia gansa de vrd
+[18Mar2025 22:41:22.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Montirizo: Teleported Montirizo to Pakar]
+[18Mar2025 22:41:37.495] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-593, y=144, z=216} BlockPos{x=-591, y=143, z=215}
+[18Mar2025 22:41:37.544] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-593, y=144, z=216} BlockPos{x=-591, y=143, z=215}
+[18Mar2025 22:41:37.594] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-593, y=144, z=216} BlockPos{x=-591, y=143, z=215}
+[18Mar2025 22:41:37.644] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-593, y=144, z=216} BlockPos{x=-591, y=143, z=215}
+[18Mar2025 22:41:39.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> nose como ponerselo a todos
+[18Mar2025 22:41:42.249] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-581, y=142, z=212} BlockPos{x=-582, y=142, z=213}
+[18Mar2025 22:41:43.651] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-581, y=142, z=208} BlockPos{x=-581, y=142, z=210}
+[18Mar2025 22:41:43.701] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-581, y=142, z=208} BlockPos{x=-581, y=142, z=210}
+[18Mar2025 22:41:43.750] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-581, y=142, z=208} BlockPos{x=-581, y=142, z=210}
+[18Mar2025 22:41:43.801] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-581, y=142, z=208} BlockPos{x=-581, y=142, z=210}
+[18Mar2025 22:41:47.104] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-580, y=143, z=206} BlockPos{x=-579, y=141, z=205}
+[18Mar2025 22:41:47.154] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-580, y=143, z=206} BlockPos{x=-579, y=141, z=205}
+[18Mar2025 22:41:48.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> por soy admin
+[18Mar2025 22:41:51.842] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-583, y=143, z=203} BlockPos{x=-583, y=142, z=204}
+[18Mar2025 22:41:51.892] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-583, y=143, z=203} BlockPos{x=-583, y=142, z=204}
+[18Mar2025 22:41:51.943] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-583, y=143, z=203} BlockPos{x=-583, y=142, z=204}
+[18Mar2025 22:41:51.992] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-583, y=143, z=202} BlockPos{x=-583, y=142, z=204}
+[18Mar2025 22:41:52.045] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-583, y=143, z=202} BlockPos{x=-583, y=142, z=204}
+[18Mar2025 22:41:52.092] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-583, y=143, z=202} BlockPos{x=-583, y=142, z=204}
+[18Mar2025 22:41:52.142] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-583, y=143, z=202} BlockPos{x=-583, y=142, z=204}
+[18Mar2025 22:41:52.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-583, y=143, z=202} BlockPos{x=-583, y=142, z=204}
+[18Mar2025 22:41:52.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Pakar a server operator
+[18Mar2025 22:41:55.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> ves
+[18Mar2025 22:43:19.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> yo ahi lo veo feo
+[18Mar2025 22:43:31.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> nose
+[18Mar2025 22:43:36.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> pero bueno yo lo dejo por aqui
+[18Mar2025 22:43:39.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> eeeeeeh
+[18Mar2025 22:43:43.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> nose cuanto tardara en caers
+[18Mar2025 22:44:02.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> perfe
+[18Mar2025 22:44:04.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> buenas noches
+[18Mar2025 22:44:06.490] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Montirizo lost connection: Disconnected
+[18Mar2025 22:44:06.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Montirizo left the game
+[18Mar2025 22:46:42.488] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pakar lost connection: Disconnected
+[18Mar2025 22:46:42.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pakar left the game

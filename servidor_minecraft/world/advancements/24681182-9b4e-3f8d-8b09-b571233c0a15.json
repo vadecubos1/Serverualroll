@@ -7485,5 +7485,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-18 22:41:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-03-18 22:41:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
