@@ -1,4 +1,9 @@
 
+#Recipe book
+[recipe_book]
+	#Should the Cooking Pot have a Recipe Book available on its interface?
+	enableRecipeBookCookingPot = true
+
 #Game settings
 [settings]
 	#Farmer's Delight adds crates (3x3) for vanilla crops, similar to Quark and Thermal Cultivation. Should they be craftable?
@@ -26,11 +31,6 @@
 	#Should tomato vines be able to climb any rope tagged as farmersdelight:ropes?
 	#Beware: this will convert these blocks into the block specified in defaultTomatoVineRope.
 	enableTomatoVineClimbingTaggedRopes = true
-
-#Recipe book
-[recipe_book]
-	#Should the Cooking Pot have a Recipe Book available on its interface?
-	enableRecipeBookCookingPot = true
 
 #Vanilla item overrides
 [overrides]
