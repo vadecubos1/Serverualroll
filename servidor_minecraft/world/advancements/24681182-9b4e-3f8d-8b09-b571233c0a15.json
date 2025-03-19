@@ -385,6 +385,7 @@
       "potato": "2025-03-12 17:55:16 +0000",
       "mutton": "2025-03-13 14:53:20 +0000",
       "bread": "2025-03-12 18:23:16 +0000",
+      "golden_carrot": "2025-03-19 14:47:57 +0000",
       "carrot": "2025-03-12 17:55:13 +0000"
     },
     "done": false
@@ -7494,6 +7495,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-03-18 22:41:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-03-19 14:47:53 +0000"
     },
     "done": true
   },
