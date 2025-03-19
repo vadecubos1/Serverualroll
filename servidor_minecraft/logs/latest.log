@@ -748,3 +748,64 @@
 [19Mar2025 19:41:29.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> alli hay nieve
 [19Mar2025 19:43:02.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6, y=84, z=22} BlockPos{x=-5, y=83, z=21}
 [19Mar2025 19:43:02.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=85, z=21} BlockPos{x=-6, y=84, z=19}
+[19Mar2025 19:44:12.225] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2, y=90, z=36} BlockPos{x=-1, y=89, z=37}
+[19Mar2025 19:44:17.184] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=90, z=36} BlockPos{x=1, y=89, z=36}
+[19Mar2025 19:44:20.851] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=90, z=35} BlockPos{x=1, y=89, z=35}
+[19Mar2025 19:44:20.902] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=90, z=35} BlockPos{x=2, y=89, z=36}
+[19Mar2025 19:44:22.936] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=91, z=35} BlockPos{x=1, y=93, z=36}
+[19Mar2025 19:44:25.994] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2, y=90, z=32} BlockPos{x=2, y=89, z=32}
+[19Mar2025 19:45:01.727] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=7, y=91, z=37} BlockPos{x=8, y=91, z=37}
+[19Mar2025 19:45:05.225] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=92, z=37} BlockPos{x=12, y=93, z=36}
+[19Mar2025 19:45:06.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> one moment
+[19Mar2025 19:45:27.975] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=14, y=92, z=25} BlockPos{x=14, y=91, z=24}
+[19Mar2025 19:46:00.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> si
+[19Mar2025 19:46:10.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yandrak12 lost connection: Disconnected
+[19Mar2025 19:46:10.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yandrak12 left the game
+[19Mar2025 19:46:15.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> que hay tuberias de fluidos
+[19Mar2025 19:47:27.272] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4, y=85, z=9} BlockPos{x=4, y=84, z=9}
+[19Mar2025 19:47:32.077] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4, y=84, z=10} BlockPos{x=-4, y=83, z=10}
+[19Mar2025 19:47:51.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> no sabia donde tirarlas
+[19Mar2025 19:50:49.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-626, y=133, z=194} BlockPos{x=-625, y=132, z=194}
+[19Mar2025 19:50:49.827] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-626, y=133, z=194} BlockPos{x=-625, y=132, z=194}
+[19Mar2025 19:50:49.882] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-626, y=133, z=193} BlockPos{x=-625, y=132, z=194}
+[19Mar2025 19:50:49.929] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-626, y=133, z=193} BlockPos{x=-625, y=132, z=194}
+[19Mar2025 19:50:50.024] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-626, y=133, z=192} BlockPos{x=-625, y=132, z=192}
+[19Mar2025 19:50:50.075] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-626, y=133, z=192} BlockPos{x=-625, y=132, z=192}
+[19Mar2025 19:50:50.124] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-626, y=133, z=192} BlockPos{x=-625, y=132, z=192}
+[19Mar2025 19:50:50.176] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-626, y=133, z=192} BlockPos{x=-625, y=132, z=192}
+[19Mar2025 19:50:50.225] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-626, y=133, z=192} BlockPos{x=-625, y=132, z=192}
+[19Mar2025 19:50:50.276] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-626, y=133, z=192} BlockPos{x=-625, y=132, z=192}
+[19Mar2025 19:50:50.332] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-626, y=133, z=192} BlockPos{x=-625, y=132, z=192}
+[19Mar2025 19:50:50.378] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-626, y=133, z=192} BlockPos{x=-625, y=132, z=192}
+[19Mar2025 19:50:50.431] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-626, y=133, z=192} BlockPos{x=-625, y=132, z=192}
+[19Mar2025 19:50:53.028] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-625, y=133, z=189} BlockPos{x=-624, y=132, z=190}
+[19Mar2025 19:50:53.081] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-625, y=133, z=189} BlockPos{x=-624, y=132, z=190}
+[19Mar2025 19:50:53.129] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-625, y=133, z=189} BlockPos{x=-624, y=132, z=190}
+[19Mar2025 19:50:53.178] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-625, y=133, z=189} BlockPos{x=-624, y=132, z=190}
+[19Mar2025 19:50:53.231] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-625, y=133, z=189} BlockPos{x=-624, y=132, z=190}
+[19Mar2025 19:50:53.281] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-625, y=133, z=189} BlockPos{x=-624, y=132, z=190}
+[19Mar2025 19:51:19.827] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jjailock lost connection: Disconnected
+[19Mar2025 19:51:19.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jjailock left the game
+[19Mar2025 19:53:19.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> quien ha quitado el spawner de blazes tio
+[19Mar2025 19:53:25.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pakar> nome
+[19Mar2025 19:53:39.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> en la fortaleza estaba
+[19Mar2025 19:53:52.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> por que
+[19Mar2025 19:56:43.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> si te deja si
+[19Mar2025 20:04:41.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> voy a hacer una cosita
+[19Mar2025 20:04:44.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Montirizo: Set own game mode to Creative Mode]
+[19Mar2025 20:04:58.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> porq quiero comprobar una cosa del tren
+[19Mar2025 20:06:06.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> tiene hambre
+[19Mar2025 20:06:55.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pakar has made the advancement [Just Be Friends]
+[19Mar2025 20:07:31.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> ah no lo tengo
+[19Mar2025 20:07:34.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> mierda
+[19Mar2025 20:07:39.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> qui
+[19Mar2025 20:07:44.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> a la puerta la taberna
+[19Mar2025 20:08:38.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> TE VAS SIN EL
+[19Mar2025 20:09:04.621] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SF_KindPrime lost connection: Disconnected
+[19Mar2025 20:09:04.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SF_KindPrime left the game
+[19Mar2025 20:14:31.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> me cago en la leche
+[19Mar2025 20:14:54.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> pss que me va a tocar hacer cosas feas
+[19Mar2025 20:15:29.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> psss
+[19Mar2025 20:15:37.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> tengo que hacer algo para que gire el tren y cambie de carril
+[19Mar2025 20:16:10.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> ahora no grax
+[19Mar2025 20:16:19.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> pss si

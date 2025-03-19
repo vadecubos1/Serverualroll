@@ -702,6 +702,7 @@
       "beef": "2025-03-13 11:11:30 +0000",
       "baked_potato": "2025-03-13 16:19:12 +0000",
       "apple": "2025-03-18 10:54:24 +0000",
+      "potato": "2025-03-19 20:08:00 +0000",
       "bread": "2025-03-13 13:29:59 +0000",
       "golden_apple": "2025-03-19 19:22:21 +0000",
       "rotten_flesh": "2025-03-13 16:51:26 +0000",
@@ -7896,9 +7897,21 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/floating_munchdew": {
+    "criteria": {
+      "has_item": "2025-03-19 20:00:08 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_green_double": {
     "criteria": {
       "has_alt_item": "2025-03-19 19:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-19 19:52:28 +0000"
     },
     "done": true
   },
@@ -8016,6 +8029,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/black_floating_flower": {
+    "criteria": {
+      "has_item": "2025-03-19 19:58:39 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2025-03-19 19:24:12 +0000"
@@ -8025,6 +8044,12 @@
   "botania:recipes/misc/conversions/lime_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2025-03-19 19:23:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-03-19 19:52:28 +0000"
     },
     "done": true
   },

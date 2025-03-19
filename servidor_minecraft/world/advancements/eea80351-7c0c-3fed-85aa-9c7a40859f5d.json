@@ -586,6 +586,7 @@
     "criteria": {
       "minecraft:pillager": "2025-03-15 19:27:31 +0000",
       "minecraft:skeleton": "2025-03-13 20:02:55 +0000",
+      "minecraft:hoglin": "2025-03-19 19:57:53 +0000",
       "minecraft:spider": "2025-03-13 20:12:25 +0000",
       "minecraft:creeper": "2025-03-15 14:43:43 +0000",
       "minecraft:phantom": "2025-03-15 15:04:41 +0000",
@@ -6742,6 +6743,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-03-19 20:18:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_wall": {
     "criteria": {
       "has_cut_calcite": "2025-03-19 15:28:28 +0000"
@@ -6757,6 +6764,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-03-19 17:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-03-19 20:17:24 +0000"
     },
     "done": true
   },
@@ -6793,6 +6806,12 @@
   "minecraft:recipes/redstone/crimson_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-19 19:30:58 +0000"
+    },
+    "done": true
+  },
+  "botania:main/tiny_potato_pet": {
+    "criteria": {
+      "code_triggered": "2025-03-19 20:06:55 +0000"
     },
     "done": true
   },

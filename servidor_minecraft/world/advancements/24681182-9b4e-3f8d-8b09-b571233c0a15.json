@@ -7740,6 +7740,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/schedule_clear": {
+    "criteria": {
+      "has_item": "2025-03-19 19:49:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-03-19 19:36:33 +0000"
@@ -7755,6 +7761,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-03-19 19:36:33 +0000"
+    },
+    "done": true
+  },
+  "create:conductor": {
+    "criteria": {
+      "0": "2025-03-19 20:02:36 +0000"
     },
     "done": true
   },
