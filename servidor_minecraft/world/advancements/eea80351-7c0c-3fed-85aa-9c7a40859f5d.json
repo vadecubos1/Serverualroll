@@ -6682,15 +6682,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-03-19 19:30:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-19 19:30:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-03-19 19:30:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_mud": {
     "criteria": {
       "has_mud": "2025-03-19 15:00:50 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-03-19 19:30:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_stairs": {
     "criteria": {
       "has_cut_calcite": "2025-03-19 15:28:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimson_window": {
+    "criteria": {
+      "has_ingredient": "2025-03-19 19:30:58 +0000"
     },
     "done": true
   },
@@ -6703,6 +6733,12 @@
   "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2025-03-19 17:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-03-19 19:30:58 +0000"
     },
     "done": true
   },
@@ -6724,6 +6760,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-03-19 19:30:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-03-19 19:30:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-19 19:30:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/paper_from_tree_bark": {
     "criteria": {
       "has_tree_bark": "2025-03-19 17:09:10 +0000"
@@ -6733,6 +6787,12 @@
   "farmersdelight:recipes/cooking/cabbage_rolls": {
     "criteria": {
       "has_the_recipe": "2025-03-19 16:07:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-19 19:30:58 +0000"
     },
     "done": true
   },
@@ -6757,6 +6817,18 @@
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2025-03-19 17:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-03-19 19:30:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-19 19:30:58 +0000"
     },
     "done": true
   },
