@@ -368,3 +368,22 @@
 [19Mar2025 16:15:53.969] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/117232, l='ServerLevel[world]', x=-2832.66, y=70.00, z=598.70] died, message: 'Unemployed was slain by Zombie'
 [19Mar2025 16:19:45.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jjailock was blown up by Creeper
 [19Mar2025 16:36:30.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jjailock was slain by Enderman
+[19Mar2025 16:41:17.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jjailock moved wrongly!
+[19Mar2025 16:51:48.167] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=83, z=34} BlockPos{x=-15, y=82, z=34}
+[19Mar2025 16:51:48.219] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=83, z=34} BlockPos{x=-14, y=82, z=34}
+[19Mar2025 16:51:58.404] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=83, z=30} BlockPos{x=-15, y=82, z=30}
+[19Mar2025 16:52:09.569] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=85, z=27} BlockPos{x=-2, y=85, z=27}
+[19Mar2025 16:52:11.103] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=85, z=28} BlockPos{x=-2, y=85, z=28}
+[19Mar2025 16:52:13.819] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=87, z=28} BlockPos{x=-1, y=88, z=28}
+[19Mar2025 16:52:43.684] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=84, z=13} BlockPos{x=-10, y=83, z=13}
+[19Mar2025 16:53:37.333] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-11, y=87, z=36} BlockPos{x=-11, y=86, z=36}
+[19Mar2025 16:53:44.067] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=85, z=38} BlockPos{x=-9, y=85, z=37}
+[19Mar2025 17:08:19.833] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Montirizo[/127.117.194.152:48727] logged in with entity id 716025 at (-394.21961146345626, 70.0, 295.85829365814504)
+[19Mar2025 17:08:19.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Montirizo joined the game
+[19Mar2025 17:08:19.881] [Server thread/INFO] [Jade/]: Syncing config to Montirizo (24681182-9b4e-3f8d-8b09-b571233c0a15)
+[19Mar2025 17:08:44.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> hostia
+[19Mar2025 17:09:26.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> EEEEH
+[19Mar2025 17:09:30.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> que le ha pasado a la via?
+[19Mar2025 17:10:03.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> ahora mismo no
+[19Mar2025 17:10:57.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> toma
+[19Mar2025 17:11:00.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> que guapo

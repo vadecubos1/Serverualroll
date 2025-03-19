@@ -6700,9 +6700,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-03-19 17:07:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_wall": {
     "criteria": {
       "has_cut_calcite": "2025-03-19 15:28:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_tree_bark": "2025-03-19 17:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-19 17:07:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/paper_from_tree_bark": {
+    "criteria": {
+      "has_tree_bark": "2025-03-19 17:09:10 +0000"
     },
     "done": true
   },
@@ -6727,6 +6751,12 @@
   "farmersdelight:recipes/decorations/cherry_cabinet": {
     "criteria": {
       "has_cherry_trapdoor": "2025-03-19 15:07:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-03-19 17:09:10 +0000"
     },
     "done": true
   },
