@@ -6089,6 +6089,12 @@
     },
     "done": true
   },
+  "create:steam_engine": {
+    "criteria": {
+      "0": "2025-03-19 12:09:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-03-19 11:23:25 +0000"
@@ -6098,6 +6104,12 @@
   "create:arm_blaze_burner": {
     "criteria": {
       "0": "2025-03-19 11:54:49 +0000"
+    },
+    "done": true
+  },
+  "create:water_supply": {
+    "criteria": {
+      "0": "2025-03-19 12:09:36 +0000"
     },
     "done": true
   },
