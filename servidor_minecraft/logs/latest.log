@@ -367,3 +367,4 @@
 [19Mar2025 16:14:50.123] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/117229, l='ServerLevel[world]', x=-2946.44, y=64.61, z=617.21] died, message: 'Unemployed was slain by Zombie Villager'
 [19Mar2025 16:15:53.969] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/117232, l='ServerLevel[world]', x=-2832.66, y=70.00, z=598.70] died, message: 'Unemployed was slain by Zombie'
 [19Mar2025 16:19:45.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jjailock was blown up by Creeper
+[19Mar2025 16:36:30.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jjailock was slain by Enderman
