@@ -133,6 +133,7 @@
       "cooked_beef": "2025-03-12 21:12:46 +0000",
       "baked_potato": "2025-03-12 21:57:29 +0000",
       "apple": "2025-03-13 22:44:53 +0000",
+      "potato": "2025-03-19 12:40:18 +0000",
       "bread": "2025-03-12 16:05:02 +0000",
       "beetroot": "2025-03-18 19:07:55 +0000",
       "cooked_chicken": "2025-03-12 22:50:48 +0000",
@@ -5680,6 +5681,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-03-19 12:53:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2025-03-19 12:48:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-03-19 12:18:42 +0000"
@@ -5758,9 +5771,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-03-19 12:53:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_asurine_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-03-19 12:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-03-19 12:53:38 +0000"
     },
     "done": true
   },
