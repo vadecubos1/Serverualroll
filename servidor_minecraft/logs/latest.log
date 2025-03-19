@@ -168,3 +168,28 @@
 [19Mar2025 14:18:11.620] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yandrak12[/127.104.247.64:49221] logged in with entity id 69979 at (-600.5051809690569, 63.0, 240.2007525388253)
 [19Mar2025 14:18:11.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yandrak12 joined the game
 [19Mar2025 14:18:11.641] [Server thread/INFO] [Jade/]: Syncing config to Yandrak12 (9e1f7cf8-caa9-3e60-a176-d0322fb27436)
+[19Mar2025 14:32:08.388] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Montirizo[/127.117.194.152:57291] logged in with entity id 74316 at (-447.8994837811656, 70.0, 341.30000001192093)
+[19Mar2025 14:32:08.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Montirizo joined the game
+[19Mar2025 14:32:08.418] [Server thread/INFO] [Jade/]: Syncing config to Montirizo (24681182-9b4e-3f8d-8b09-b571233c0a15)
+[19Mar2025 14:33:26.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Yandrak12) moved wrongly! 0.2869614832799243
+[19Mar2025 14:34:27.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> donde estáis?
+[19Mar2025 14:34:46.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jjailock> tamos en plaza comercio
+[19Mar2025 14:35:08.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> a donde vamos?
+[19Mar2025 14:35:16.816] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-458, y=64, z=251} BlockPos{x=-457, y=62, z=250}
+[19Mar2025 14:35:19.676] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pakar[/127.8.43.195:57073] logged in with entity id 76118 at (-440.7556596935737, 77.0, 300.0575295881617)
+[19Mar2025 14:35:19.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pakar joined the game
+[19Mar2025 14:35:19.728] [Server thread/INFO] [Jade/]: Syncing config to Pakar (eea80351-7c0c-3fed-85aa-9c7a40859f5d)
+[19Mar2025 14:35:19.982] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-444, y=64, z=249} BlockPos{x=-442, y=62, z=249}
+[19Mar2025 14:35:58.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> aqui hay una caida eh
+[19Mar2025 14:36:06.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> SU PUTA MADRE
+[19Mar2025 14:36:12.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> baja por el ascensro
+[19Mar2025 14:36:32.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> cogel ascensor y ya ta
+[19Mar2025 14:36:38.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> pero eh eh andres
+[19Mar2025 14:36:43.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> andres
+[19Mar2025 14:36:54.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> ponle un asiento para ir subido en ella
+[19Mar2025 14:36:59.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> como en dune
+[19Mar2025 14:37:12.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> sisi
+[19Mar2025 14:37:39.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> que locura
+[19Mar2025 14:37:48.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> creo que si
+[19Mar2025 14:37:51.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> nose como
+[19Mar2025 14:37:53.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> pero si
