@@ -6268,18 +6268,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stone_bricks": "2025-03-19 11:07:30 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/abstruse_platform": {
-    "criteria": {
-      "has_item": "2025-03-19 10:57:51 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/tools/mana_tablet_alt": {
     "criteria": {
       "has_item": "2025-03-19 10:54:18 +0000"
@@ -6289,6 +6277,54 @@
   "botania:recipes/misc/conversions/manadiamond_block_deconstruct": {
     "criteria": {
       "has_item": "2025-03-19 10:54:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/auto_crafting_halo": {
+    "criteria": {
+      "has_item": "2025-03-19 10:54:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/third_eye": {
+    "criteria": {
+      "has_item": "2025-03-19 10:54:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_gun": {
+    "criteria": {
+      "has_item": "2025-03-19 10:54:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/mana_diamond_block": {
+    "criteria": {
+      "has_item": "2025-03-19 10:54:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/runic_altar_alt": {
+    "criteria": {
+      "has_item": "2025-03-19 10:54:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/avatar": {
+    "criteria": {
+      "has_item": "2025-03-19 10:54:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/divining_rod": {
+    "criteria": {
+      "has_item": "2025-03-19 10:54:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/abstruse_platform": {
+    "criteria": {
+      "has_item": "2025-03-19 10:57:51 +0000"
     },
     "done": true
   },
@@ -6310,9 +6346,45 @@
     },
     "done": true
   },
-  "botania:recipes/tools/auto_crafting_halo": {
+  "botania:recipes/misc/phantom_ink": {
     "criteria": {
-      "has_item": "2025-03-19 10:54:18 +0000"
+      "has_item": "2025-03-19 10:57:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/crafting_halo": {
+    "criteria": {
+      "has_item": "2025-03-19 10:57:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/tiny_planet_block": {
+    "criteria": {
+      "has_alt_item": "2025-03-19 10:57:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/invisibility_cloak": {
+    "criteria": {
+      "has_item": "2025-03-19 10:57:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/ender_dagger": {
+    "criteria": {
+      "has_item": "2025-03-19 10:57:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/alchemy_catalyst": {
+    "criteria": {
+      "has_item": "2025-03-19 10:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-19 11:07:30 +0000"
     },
     "done": true
   },
@@ -6325,30 +6397,6 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-03-19 11:07:30 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/third_eye": {
-    "criteria": {
-      "has_item": "2025-03-19 10:54:18 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/phantom_ink": {
-    "criteria": {
-      "has_item": "2025-03-19 10:57:51 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/mana_gun": {
-    "criteria": {
-      "has_item": "2025-03-19 10:54:18 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/crafting_halo": {
-    "criteria": {
-      "has_item": "2025-03-19 10:57:51 +0000"
     },
     "done": true
   },
@@ -6370,27 +6418,9 @@
     },
     "done": true
   },
-  "botania:recipes/building_blocks/mana_diamond_block": {
-    "criteria": {
-      "has_item": "2025-03-19 10:54:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-03-19 11:07:30 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/runic_altar_alt": {
-    "criteria": {
-      "has_item": "2025-03-19 10:54:18 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/tiny_planet_block": {
-    "criteria": {
-      "has_alt_item": "2025-03-19 10:57:51 +0000"
     },
     "done": true
   },
@@ -6406,33 +6436,15 @@
     },
     "done": true
   },
-  "botania:recipes/redstone/avatar": {
+  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
     "criteria": {
-      "has_item": "2025-03-19 10:54:18 +0000"
+      "has_log": "2025-03-19 11:27:12 +0000"
     },
     "done": true
   },
-  "botania:recipes/tools/invisibility_cloak": {
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
     "criteria": {
-      "has_item": "2025-03-19 10:57:51 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/combat/ender_dagger": {
-    "criteria": {
-      "has_item": "2025-03-19 10:57:51 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/divining_rod": {
-    "criteria": {
-      "has_item": "2025-03-19 10:54:18 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/alchemy_catalyst": {
-    "criteria": {
-      "has_item": "2025-03-19 10:57:51 +0000"
+      "has_stripped_logs": "2025-03-19 11:27:12 +0000"
     },
     "done": true
   },

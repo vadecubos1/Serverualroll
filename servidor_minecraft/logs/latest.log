@@ -134,3 +134,6 @@
 [19Mar2025 11:16:08.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jjailock joined the game
 [19Mar2025 11:16:09.034] [Server thread/INFO] [Jade/]: Syncing config to jjailock (f04a067b-35a2-3157-b5a3-d0e9ae627fba)
 [19Mar2025 11:25:54.212] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@23dd755b[id=<null>,name=Pakar,properties={},legacy=false] (/127.8.43.195:55655) lost connection: Disconnected
+[19Mar2025 11:26:06.634] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pakar[/127.8.43.195:43247] logged in with entity id 15726 at (-414.6990991202534, 66.0001001, 303.50893072014986)
+[19Mar2025 11:26:06.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pakar joined the game
+[19Mar2025 11:26:06.715] [Server thread/INFO] [Jade/]: Syncing config to Pakar (eea80351-7c0c-3fed-85aa-9c7a40859f5d)
