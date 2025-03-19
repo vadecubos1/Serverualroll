@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-03-19 21:30:59 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/keyring": {
     "criteria": {
       "has_template": "2025-03-19 21:17:08 +0000"
