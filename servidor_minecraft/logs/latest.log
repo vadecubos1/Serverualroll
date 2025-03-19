@@ -228,3 +228,35 @@
 [19Mar2025 14:57:54.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> dios mio
 [19Mar2025 14:58:02.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> como se sale ahora
 [19Mar2025 14:58:15.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> y que hacemos ahora
+[19Mar2025 14:59:32.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> esta en el gran almacen
+[19Mar2025 14:59:45.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> pero dale de comer al blaze primero
+[19Mar2025 15:00:03.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> solo tiralo
+[19Mar2025 15:00:04.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> y lo hace
+[19Mar2025 15:00:11.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> no hay
+[19Mar2025 15:00:48.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jjailock fell from a high place
+[19Mar2025 15:01:33.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> voy por el jajaj
+[19Mar2025 15:04:55.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> observa
+[19Mar2025 15:05:14.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> tira el cubo
+[19Mar2025 15:06:29.728] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-736, y=63, z=158} BlockPos{x=-899, y=64, z=404}
+[19Mar2025 15:06:29.787] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-736, y=63, z=158} BlockPos{x=-899, y=64, z=404}
+[19Mar2025 15:07:52.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yandrak12 lost connection: Disconnected
+[19Mar2025 15:07:52.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yandrak12 left the game
+[19Mar2025 15:12:06.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> pero lo puedes hacer funcional?
+[19Mar2025 15:12:09.102] [Worker-Main-192/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=26, z=-1202}
+[19Mar2025 15:12:09.103] [Worker-Main-192/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-363, y=25, z=-1209}
+[19Mar2025 15:12:26.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> hombre
+[19Mar2025 15:12:35.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> se pueden hacer los gusanos de mina
+[19Mar2025 15:12:39.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> como ha hecho andres
+[19Mar2025 15:12:42.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> pss para agua igual supongo
+[19Mar2025 15:14:50.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> templo yo creo
+[19Mar2025 15:16:46.873] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Montirizo lost connection: Disconnected
+[19Mar2025 15:16:46.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Montirizo left the game
+[19Mar2025 15:16:52.834] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Montirizo[/127.117.194.152:50463] logged in with entity id 101720 at (-408.51872984864275, 65.0, 303.2833494634202)
+[19Mar2025 15:16:52.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Montirizo joined the game
+[19Mar2025 15:16:52.894] [Server thread/INFO] [Jade/]: Syncing config to Montirizo (24681182-9b4e-3f8d-8b09-b571233c0a15)
+[19Mar2025 15:18:18.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pakar> Dormí montoya
+[19Mar2025 15:18:53.566] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jjailock lost connection: Disconnected
+[19Mar2025 15:18:53.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jjailock left the game
+[19Mar2025 15:18:59.525] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jjailock[/127.69.28.83:47171] logged in with entity id 103038 at (-196.04573763374904, 68.0, 98.6153098420515)
+[19Mar2025 15:18:59.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jjailock joined the game
+[19Mar2025 15:18:59.538] [Server thread/INFO] [Jade/]: Syncing config to jjailock (f04a067b-35a2-3157-b5a3-d0e9ae627fba)

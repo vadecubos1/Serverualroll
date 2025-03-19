@@ -6676,5 +6676,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-03-19 15:00:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cherry_cabinet": {
+    "criteria": {
+      "has_cherry_trapdoor": "2025-03-19 15:07:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
