@@ -152,3 +152,19 @@
 [19Mar2025 13:40:39.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yandrak12 left the game
 [19Mar2025 13:47:33.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jjailock was shot by Skeleton
 [19Mar2025 13:50:50.054] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2b101cbc[id=<null>,name=Pakar,properties={},legacy=false] (/127.8.43.195:36477) lost connection: Disconnected
+[19Mar2025 14:14:27.573] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yandrak12[/127.104.247.64:35613] logged in with entity id 69042 at (-588.3000000119209, 63.0, 250.9551575557337)
+[19Mar2025 14:14:27.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yandrak12 joined the game
+[19Mar2025 14:14:27.591] [Server thread/INFO] [Jade/]: Syncing config to Yandrak12 (9e1f7cf8-caa9-3e60-a176-d0322fb27436)
+[19Mar2025 14:14:34.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yandrak12 lost connection: Disconnected
+[19Mar2025 14:14:34.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yandrak12 left the game
+[19Mar2025 14:15:47.805] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4b6622d3[id=<null>,name=Yandrak12,properties={},legacy=false] (/127.104.247.64:37331) lost connection: Disconnected
+[19Mar2025 14:16:08.108] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yandrak12[/127.104.247.64:43889] logged in with entity id 69548 at (-596.1062622214243, 63.0, 250.11948985576578)
+[19Mar2025 14:16:08.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yandrak12 joined the game
+[19Mar2025 14:16:08.128] [Server thread/INFO] [Jade/]: Syncing config to Yandrak12 (9e1f7cf8-caa9-3e60-a176-d0322fb27436)
+[19Mar2025 14:16:53.012] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yandrak12 lost connection: Disconnected
+[19Mar2025 14:16:53.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yandrak12 left the game
+[19Mar2025 14:17:25.255] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1c2fdd8a[id=<null>,name=Yandrak12,properties={},legacy=false] (/127.104.247.64:39519) lost connection: Disconnected
+[19Mar2025 14:17:59.204] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3e8b98f0[id=<null>,name=Yandrak12,properties={},legacy=false] (/127.104.247.64:44715) lost connection: Disconnected
+[19Mar2025 14:18:11.620] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yandrak12[/127.104.247.64:49221] logged in with entity id 69979 at (-600.5051809690569, 63.0, 240.2007525388253)
+[19Mar2025 14:18:11.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yandrak12 joined the game
+[19Mar2025 14:18:11.641] [Server thread/INFO] [Jade/]: Syncing config to Yandrak12 (9e1f7cf8-caa9-3e60-a176-d0322fb27436)
