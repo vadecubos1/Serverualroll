@@ -260,3 +260,91 @@
 [19Mar2025 15:18:59.525] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jjailock[/127.69.28.83:47171] logged in with entity id 103038 at (-196.04573763374904, 68.0, 98.6153098420515)
 [19Mar2025 15:18:59.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jjailock joined the game
 [19Mar2025 15:18:59.538] [Server thread/INFO] [Jade/]: Syncing config to jjailock (f04a067b-35a2-3157-b5a3-d0e9ae627fba)
+[19Mar2025 15:21:50.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> que pasa?
+[19Mar2025 15:22:18.621] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jjailock lost connection: Disconnected
+[19Mar2025 15:22:18.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jjailock left the game
+[19Mar2025 15:23:01.723] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jjailock[/127.69.28.83:41575] logged in with entity id 104962 at (-207.68695168266848, 71.0, 110.30449315774533)
+[19Mar2025 15:23:01.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jjailock joined the game
+[19Mar2025 15:23:01.734] [Server thread/INFO] [Jade/]: Syncing config to jjailock (f04a067b-35a2-3157-b5a3-d0e9ae627fba)
+[19Mar2025 15:23:07.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> voy a picar lo del ascensor hasta la bedrock
+[19Mar2025 15:23:39.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> como el mod de la quarry?
+[19Mar2025 15:24:36.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> el sensor
+[19Mar2025 15:24:47.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> no digo que el sensor en el pitorrillo
+[19Mar2025 15:25:22.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> no porq no puede bajar si no hay
+[19Mar2025 15:25:26.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> un sensor al que ir
+[19Mar2025 15:26:00.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> cual es la altura de la bedrock?
+[19Mar2025 15:27:03.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> en la fabrica hay no?
+[19Mar2025 15:27:22.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> tendré que poner una
+[19Mar2025 15:27:31.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> 18gb
+[19Mar2025 15:27:38.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> creo
+[19Mar2025 15:27:47.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> corta piedras
+[19Mar2025 15:28:03.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> me pregunto para que servira
+[19Mar2025 15:28:21.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> no corta el mar
+[19Mar2025 15:28:23.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> si no vuela
+[19Mar2025 15:29:00.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> si
+[19Mar2025 15:33:24.210] [Worker-Main-160/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[19Mar2025 15:33:24.215] [Worker-Main-191/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[19Mar2025 15:33:24.216] [Worker-Main-191/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[19Mar2025 15:33:28.943] [Worker-Main-160/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[19Mar2025 15:33:37.372] [Worker-Main-192/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-536}
+[19Mar2025 15:33:37.372] [Worker-Main-192/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=27, z=-536}
+[19Mar2025 15:33:37.372] [Worker-Main-192/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=27, z=-536}
+[19Mar2025 15:33:37.372] [Worker-Main-192/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=28, z=-536}
+[19Mar2025 15:33:37.373] [Worker-Main-192/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=28, z=-536}
+[19Mar2025 15:33:37.373] [Worker-Main-192/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=28, z=-536}
+[19Mar2025 15:33:39.198] [Worker-Main-190/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-612}
+[19Mar2025 15:33:39.198] [Worker-Main-190/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-607}
+[19Mar2025 15:33:39.207] [Worker-Main-190/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-612}
+[19Mar2025 15:33:39.207] [Worker-Main-190/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-607}
+[19Mar2025 15:33:41.506] [Worker-Main-153/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[19Mar2025 15:33:41.506] [Worker-Main-153/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[19Mar2025 15:33:41.507] [Worker-Main-153/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[19Mar2025 15:33:41.507] [Worker-Main-153/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[19Mar2025 15:33:43.463] [Worker-Main-145/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-382, y=29, z=-611}
+[19Mar2025 15:33:43.705] [Worker-Main-192/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[19Mar2025 15:33:43.706] [Worker-Main-192/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[19Mar2025 15:33:45.567] [Worker-Main-153/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[19Mar2025 15:33:45.603] [Worker-Main-191/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[19Mar2025 15:33:47.662] [Worker-Main-145/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-612}
+[19Mar2025 15:33:47.662] [Worker-Main-145/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-607}
+[19Mar2025 15:33:47.672] [Worker-Main-145/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-612}
+[19Mar2025 15:33:47.673] [Worker-Main-145/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-607}
+[19Mar2025 15:33:47.683] [Worker-Main-192/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[19Mar2025 15:33:47.684] [Worker-Main-192/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[19Mar2025 15:33:47.684] [Worker-Main-192/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[19Mar2025 15:33:47.684] [Worker-Main-192/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[19Mar2025 15:33:49.393] [Worker-Main-191/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[19Mar2025 15:33:49.393] [Worker-Main-191/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[19Mar2025 15:33:49.394] [Worker-Main-191/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[19Mar2025 15:33:49.394] [Worker-Main-191/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[19Mar2025 15:33:49.435] [Worker-Main-153/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=27, z=-561}
+[19Mar2025 15:33:51.688] [Worker-Main-145/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
+[19Mar2025 15:33:51.689] [Worker-Main-145/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
+[19Mar2025 15:34:36.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> dios
+[19Mar2025 15:34:44.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> alguien puede coger el ascensor hasta el piso 3?
+[19Mar2025 15:35:02.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> hombre si quieres bajar con el
+[19Mar2025 15:35:07.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> dale
+[19Mar2025 15:35:28.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> oscuridad
+[19Mar2025 15:35:50.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> no mejodas que se habrá bugueado
+[19Mar2025 15:35:55.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> habrá que configurar los numeros
+[19Mar2025 15:36:00.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> dale al 4 si eso
+[19Mar2025 15:36:25.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> tendré que mirarlo
+[19Mar2025 15:36:33.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> pss tendrá que ser el 4
+[19Mar2025 15:36:33.518] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/117227, l='ServerLevel[world]', x=-2957.91, y=65.00, z=541.16] died, message: 'Unemployed was slain by Zombie'
+[19Mar2025 15:36:51.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> wtf
+[19Mar2025 15:36:55.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> y cual es el mas bajo
+[19Mar2025 15:36:56.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> el 1?
+[19Mar2025 15:37:04.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> pss ahora lo veré
+[19Mar2025 15:37:35.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> su madre se ha quedado arriba
+[19Mar2025 15:37:40.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> bueno me hago un botón
+[19Mar2025 15:38:46.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> su madre que oscuro esta esto
+[19Mar2025 15:41:18.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> ea ya hay un piso a la bedrock
+[19Mar2025 15:41:36.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> ya pero por si acaso
+[19Mar2025 15:41:42.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> el de jaime
+[19Mar2025 15:42:00.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> oye el tren?
+[19Mar2025 15:42:12.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> fuck
+[19Mar2025 15:45:08.703] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2974, y=83, z=539} BlockPos{x=-2972, y=83, z=539}
+[19Mar2025 15:46:12.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2972, y=80, z=545} BlockPos{x=-2972, y=83, z=542}
+[19Mar2025 15:46:22.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> osea uno normal
+[19Mar2025 15:46:30.874] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2972, y=76, z=543} BlockPos{x=-2972, y=75, z=543}
+[19Mar2025 15:47:23.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> al spawnpoint

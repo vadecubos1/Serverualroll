@@ -7,8 +7,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-03-19 15:28:53 +0000",
       "minecraft:taiga": "2025-03-19 15:07:08 +0000",
       "minecraft:frozen_river": "2025-03-19 15:00:49 +0000",
+      "minecraft:cherry_grove": "2025-03-19 15:25:06 +0000",
       "minecraft:beach": "2025-03-12 16:13:38 +0000",
       "minecraft:river": "2025-03-12 16:46:26 +0000",
       "minecraft:snowy_plains": "2025-03-19 14:59:54 +0000",
@@ -19,6 +21,7 @@
       "minecraft:forest": "2025-03-19 12:17:31 +0000",
       "minecraft:frozen_ocean": "2025-03-19 15:06:01 +0000",
       "minecraft:deep_frozen_ocean": "2025-03-19 15:06:32 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-03-19 15:28:20 +0000",
       "minecraft:snowy_beach": "2025-03-19 15:05:56 +0000",
       "minecraft:deep_dark": "2025-03-18 21:43:29 +0000",
       "minecraft:plains": "2025-03-12 15:59:52 +0000"
@@ -160,7 +163,8 @@
       "minecraft:wither_skeleton": "2025-03-19 11:17:28 +0000",
       "minecraft:cave_spider": "2025-03-12 16:56:17 +0000",
       "minecraft:enderman": "2025-03-13 17:06:00 +0000",
-      "minecraft:zombie": "2025-03-12 16:27:51 +0000"
+      "minecraft:zombie": "2025-03-12 16:27:51 +0000",
+      "minecraft:zombie_villager": "2025-03-19 15:34:30 +0000"
     },
     "done": false
   },
@@ -3939,7 +3943,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-03-13 18:17:50 +0000",
       "minecraft:nether_wastes": "2025-03-13 17:43:38 +0000",
-      "minecraft:soul_sand_valley": "2025-03-13 17:43:34 +0000"
+      "minecraft:soul_sand_valley": "2025-03-13 17:43:34 +0000",
+      "minecraft:basalt_deltas": "2025-03-19 15:20:03 +0000"
     },
     "done": false
   },
@@ -5914,6 +5919,72 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_the_recipe": "2025-03-19 15:08:55 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/speed_up_belt": {
+    "criteria": {
+      "has_item": "2025-03-19 15:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-03-19 15:27:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-03-19 15:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-03-19 15:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-19 15:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-03-19 15:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-03-19 15:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-19 15:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-03-19 15:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-19 15:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-19 15:27:09 +0000"
     },
     "done": true
   },
