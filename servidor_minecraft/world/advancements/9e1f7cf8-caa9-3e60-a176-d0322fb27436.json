@@ -6023,6 +6023,24 @@
     },
     "done": true
   },
+  "botania:main/cacophonium_craft": {
+    "criteria": {
+      "cacophonium": "2025-03-18 20:21:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_ingot_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-03-18 21:51:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_ingot_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-03-18 21:51:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-03-18 21:51:42 +0000"
@@ -6041,18 +6059,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/zinc_ingot_from_decompacting": {
-    "criteria": {
-      "has_item": "2025-03-18 21:51:41 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/brass_ingot_from_decompacting": {
-    "criteria": {
-      "has_item": "2025-03-18 21:51:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-03-18 21:51:42 +0000"
@@ -6062,12 +6068,6 @@
   "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
       "has_copper_block": "2025-03-18 21:51:42 +0000"
-    },
-    "done": true
-  },
-  "botania:main/cacophonium_craft": {
-    "criteria": {
-      "cacophonium": "2025-03-18 20:21:07 +0000"
     },
     "done": true
   },
