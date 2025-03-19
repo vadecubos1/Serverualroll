@@ -151,3 +151,4 @@
 [19Mar2025 13:40:39.914] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yandrak12 lost connection: Disconnected
 [19Mar2025 13:40:39.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yandrak12 left the game
 [19Mar2025 13:47:33.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jjailock was shot by Skeleton
+[19Mar2025 13:50:50.054] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2b101cbc[id=<null>,name=Pakar,properties={},legacy=false] (/127.8.43.195:36477) lost connection: Disconnected
