@@ -6694,9 +6694,21 @@
     },
     "done": true
   },
+  "create:track_0": {
+    "criteria": {
+      "0": "2025-03-19 16:22:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_wall": {
     "criteria": {
       "has_cut_calcite": "2025-03-19 15:28:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_the_recipe": "2025-03-19 16:07:57 +0000"
     },
     "done": true
   },

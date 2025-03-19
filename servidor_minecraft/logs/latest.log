@@ -351,3 +351,19 @@
 [19Mar2025 15:54:38.769] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/117212, l='ServerLevel[world]', x=-2940.94, y=64.00, z=618.25] died, message: 'Unemployed was slain by Zombie'
 [19Mar2025 15:58:09.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jjailock has made the advancement [What a Deal!]
 [19Mar2025 15:59:06.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> que es
+[19Mar2025 16:00:37.970] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/117230, l='ServerLevel[world]', x=-2933.50, y=65.00, z=614.50] died, message: 'Unemployed was slain by Zombie'
+[19Mar2025 16:04:10.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> luego vendré chicos
+[19Mar2025 16:04:12.326] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Montirizo lost connection: Disconnected
+[19Mar2025 16:04:12.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Montirizo left the game
+[19Mar2025 16:04:46.872] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2930, y=63, z=563} BlockPos{x=-2930, y=64, z=563}
+[19Mar2025 16:04:55.924] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2931, y=63, z=579} BlockPos{x=-2930, y=64, z=579}
+[19Mar2025 16:05:13.131] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2947, y=63, z=579} BlockPos{x=-2948, y=64, z=579}
+[19Mar2025 16:05:20.026] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2947, y=64, z=563} BlockPos{x=-2948, y=64, z=563}
+[19Mar2025 16:07:16.175] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2909, y=64, z=623} BlockPos{x=-2910, y=64, z=601}
+[19Mar2025 16:14:22.519] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/117214, l='ServerLevel[world]', x=-2944.49, y=64.25, z=617.54] died, message: 'Unemployed was slain by Zombie'
+[19Mar2025 16:14:27.318] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/117309, l='ServerLevel[world]', x=-2946.40, y=64.00, z=620.75] died, message: 'Unemployed was slain by Zombie Villager'
+[19Mar2025 16:14:35.071] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/117312, l='ServerLevel[world]', x=-2944.12, y=64.00, z=619.29] died, message: 'Unemployed was slain by Zombie Villager'
+[19Mar2025 16:14:42.168] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/117226, l='ServerLevel[world]', x=-2941.04, y=64.00, z=621.85] died, message: 'Unemployed was slain by Zombie Villager'
+[19Mar2025 16:14:50.123] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/117229, l='ServerLevel[world]', x=-2946.44, y=64.61, z=617.21] died, message: 'Unemployed was slain by Zombie Villager'
+[19Mar2025 16:15:53.969] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/117232, l='ServerLevel[world]', x=-2832.66, y=70.00, z=598.70] died, message: 'Unemployed was slain by Zombie'
+[19Mar2025 16:19:45.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jjailock was blown up by Creeper
