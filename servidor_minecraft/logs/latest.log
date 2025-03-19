@@ -107,3 +107,30 @@
 [19Mar2025 10:52:43.287] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pakar[/127.8.43.195:34333] logged in with entity id 2154 at (-442.98822526250285, 76.0, 297.1597628643603)
 [19Mar2025 10:52:43.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pakar joined the game
 [19Mar2025 10:52:43.367] [Server thread/INFO] [Jade/]: Syncing config to Pakar (eea80351-7c0c-3fed-85aa-9c7a40859f5d)
+[19Mar2025 11:03:29.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jjailock tried to swim in lava
+[19Mar2025 11:11:36.073] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yandrak12 lost connection: Timed out
+[19Mar2025 11:11:36.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yandrak12 left the game
+[19Mar2025 11:11:36.154] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Mar2025 11:12:00.163] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pakar lost connection: Timed out
+[19Mar2025 11:12:00.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pakar left the game
+[19Mar2025 11:12:26.732] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yandrak12[/127.104.247.64:45105] logged in with entity id 9106 at (-50.5, 91.0, 45.179479587982314)
+[19Mar2025 11:12:26.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yandrak12 joined the game
+[19Mar2025 11:12:26.754] [Server thread/INFO] [Jade/]: Syncing config to Yandrak12 (9e1f7cf8-caa9-3e60-a176-d0322fb27436)
+[19Mar2025 11:12:30.367] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jjailock lost connection: Timed out
+[19Mar2025 11:12:30.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jjailock left the game
+[19Mar2025 11:12:47.475] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jjailock[/127.127.82.182:46577] logged in with entity id 9276 at (-409.29776315556654, 53.0, 280.51843948698973)
+[19Mar2025 11:12:47.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jjailock joined the game
+[19Mar2025 11:12:47.486] [Server thread/INFO] [Jade/]: Syncing config to jjailock (f04a067b-35a2-3157-b5a3-d0e9ae627fba)
+[19Mar2025 11:12:51.531] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@f64ad8c[id=<null>,name=Pakar,properties={},legacy=false] (/127.8.43.195:36481) lost connection: Disconnected
+[19Mar2025 11:15:20.475] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yandrak12 lost connection: Disconnected
+[19Mar2025 11:15:20.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yandrak12 left the game
+[19Mar2025 11:15:32.861] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jjailock lost connection: Timed out
+[19Mar2025 11:15:32.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jjailock left the game
+[19Mar2025 11:15:46.977] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yandrak12[/127.104.247.64:52551] logged in with entity id 11317 at (181.53488671058432, 60.0, -201.69418347505862)
+[19Mar2025 11:15:46.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yandrak12 joined the game
+[19Mar2025 11:15:46.999] [Server thread/INFO] [Jade/]: Syncing config to Yandrak12 (9e1f7cf8-caa9-3e60-a176-d0322fb27436)
+[19Mar2025 11:15:50.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yandrak12 was slain by Wither Skeleton
+[19Mar2025 11:16:08.981] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jjailock[/127.127.82.182:33977] logged in with entity id 11973 at (-405.75514020169356, 53.0, 304.0743922721641)
+[19Mar2025 11:16:08.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jjailock joined the game
+[19Mar2025 11:16:09.034] [Server thread/INFO] [Jade/]: Syncing config to jjailock (f04a067b-35a2-3157-b5a3-d0e9ae627fba)
+[19Mar2025 11:25:54.212] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@23dd755b[id=<null>,name=Pakar,properties={},legacy=false] (/127.8.43.195:55655) lost connection: Disconnected
