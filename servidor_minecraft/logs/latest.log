@@ -145,3 +145,5 @@
 [19Mar2025 12:41:20.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yandrak12 was slain by Enderman
 [19Mar2025 12:41:55.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jjailock fell from a high place
 [19Mar2025 12:44:24.489] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Yandrak12/Drill.nbt
+[19Mar2025 13:18:43.466] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pakar lost connection: Disconnected
+[19Mar2025 13:18:43.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pakar left the game

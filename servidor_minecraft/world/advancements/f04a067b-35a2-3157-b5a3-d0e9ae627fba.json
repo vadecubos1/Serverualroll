@@ -5711,9 +5711,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_asurine_brick_slab": {
+    "criteria": {
+      "has_cut_asurine_bricks": "2025-03-19 13:24:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-03-19 12:18:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_stairs": {
+    "criteria": {
+      "has_cut_asurine_bricks": "2025-03-19 13:24:47 +0000"
     },
     "done": true
   },
@@ -5822,6 +5834,12 @@
   "create:recipes/building_blocks/layered_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-03-19 12:18:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_wall": {
+    "criteria": {
+      "has_cut_asurine_bricks": "2025-03-19 13:24:47 +0000"
     },
     "done": true
   },
