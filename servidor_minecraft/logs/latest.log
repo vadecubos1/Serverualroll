@@ -348,3 +348,6 @@
 [19Mar2025 15:46:22.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> osea uno normal
 [19Mar2025 15:46:30.874] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2972, y=76, z=543} BlockPos{x=-2972, y=75, z=543}
 [19Mar2025 15:47:23.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> al spawnpoint
+[19Mar2025 15:54:38.769] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/117212, l='ServerLevel[world]', x=-2940.94, y=64.00, z=618.25] died, message: 'Unemployed was slain by Zombie'
+[19Mar2025 15:58:09.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jjailock has made the advancement [What a Deal!]
+[19Mar2025 15:59:06.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Montirizo> que es
