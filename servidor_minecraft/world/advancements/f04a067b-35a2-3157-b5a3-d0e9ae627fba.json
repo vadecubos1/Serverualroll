@@ -24,6 +24,7 @@
       "minecraft:old_growth_spruce_taiga": "2025-03-19 15:28:20 +0000",
       "minecraft:snowy_beach": "2025-03-19 15:05:56 +0000",
       "minecraft:deep_dark": "2025-03-18 21:43:29 +0000",
+      "minecraft:meadow": "2025-03-19 21:07:35 +0000",
       "minecraft:plains": "2025-03-12 15:59:52 +0000"
     },
     "done": false
@@ -6375,12 +6376,6 @@
     },
     "done": true
   },
-  "create:potato_cannon": {
-    "criteria": {
-      "0": "2025-03-19 19:17:24 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/tools/glass_pickaxe": {
     "criteria": {
       "has_item": "2025-03-19 19:06:55 +0000"
@@ -6402,12 +6397,6 @@
   "botania:recipes/tools/knockback_belt": {
     "criteria": {
       "has_item": "2025-03-19 19:06:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2025-03-19 19:28:19 +0000"
     },
     "done": true
   },
@@ -6558,6 +6547,18 @@
   "botania:recipes/combat/livingwood_bow": {
     "criteria": {
       "has_twig": "2025-03-19 19:08:00 +0000"
+    },
+    "done": true
+  },
+  "create:potato_cannon": {
+    "criteria": {
+      "0": "2025-03-19 19:17:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-03-19 19:28:19 +0000"
     },
     "done": true
   },
