@@ -120,3 +120,5 @@
 [20Mar2025 13:21:56.313] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-489, y=79, z=302} BlockPos{x=-484, y=79, z=299}
 [20Mar2025 13:21:56.363] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-489, y=79, z=302} BlockPos{x=-484, y=79, z=299}
 [20Mar2025 13:21:56.414] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-489, y=79, z=302} BlockPos{x=-484, y=79, z=299}
+[20Mar2025 13:29:26.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pakar lost connection: Disconnected
+[20Mar2025 13:29:26.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pakar left the game
