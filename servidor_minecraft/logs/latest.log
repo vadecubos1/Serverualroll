@@ -88,3 +88,8 @@
 [20Mar2025 10:20:49.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pakar joined the game
 [20Mar2025 10:20:49.391] [Server thread/INFO] [Jade/]: Syncing config to Pakar (eea80351-7c0c-3fed-85aa-9c7a40859f5d)
 [20Mar2025 10:23:06.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yandrak12 moved wrongly!
+[20Mar2025 10:49:54.380] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pakar lost connection: Disconnected
+[20Mar2025 10:49:54.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pakar left the game
+[20Mar2025 10:50:30.851] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pakar[/127.8.43.195:46783] logged in with entity id 31339 at (-444.13233427155546, 91.0, 293.9580129555957)
+[20Mar2025 10:50:30.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pakar joined the game
+[20Mar2025 10:50:30.935] [Server thread/INFO] [Jade/]: Syncing config to Pakar (eea80351-7c0c-3fed-85aa-9c7a40859f5d)
