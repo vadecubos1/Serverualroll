@@ -84,3 +84,7 @@
 [20Mar2025 09:47:14.869] [Server thread/INFO] [Jade/]: Syncing config to Yandrak12 (9e1f7cf8-caa9-3e60-a176-d0322fb27436)
 [20Mar2025 09:47:17.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2468ms or 49 ticks behind
 [20Mar2025 10:12:31.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yandrak12 has made the advancement [An Ecstatic Vivace]
+[20Mar2025 10:20:49.305] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pakar[/127.8.43.195:40251] logged in with entity id 16065 at (-440.80891548094445, 91.0, 292.85778972346884)
+[20Mar2025 10:20:49.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pakar joined the game
+[20Mar2025 10:20:49.391] [Server thread/INFO] [Jade/]: Syncing config to Pakar (eea80351-7c0c-3fed-85aa-9c7a40859f5d)
+[20Mar2025 10:23:06.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yandrak12 moved wrongly!

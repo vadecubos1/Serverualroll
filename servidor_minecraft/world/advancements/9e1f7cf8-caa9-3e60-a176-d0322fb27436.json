@@ -6318,9 +6318,21 @@
     },
     "done": true
   },
+  "botania:main/functional_flower": {
+    "criteria": {
+      "flower": "2025-03-20 10:12:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
     "criteria": {
       "has_item": "2025-03-20 10:06:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/floating_agricarnation": {
+    "criteria": {
+      "has_item": "2025-03-20 10:12:31 +0000"
     },
     "done": true
   },
