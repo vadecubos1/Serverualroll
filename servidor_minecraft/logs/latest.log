@@ -122,3 +122,7 @@
 [20Mar2025 13:21:56.414] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-489, y=79, z=302} BlockPos{x=-484, y=79, z=299}
 [20Mar2025 13:29:26.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pakar lost connection: Disconnected
 [20Mar2025 13:29:26.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pakar left the game
+[20Mar2025 13:41:20.990] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pakar[/127.8.43.195:48905] logged in with entity id 105021 at (-447.6482047954622, 81.0, 289.1971001084952)
+[20Mar2025 13:41:21.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pakar joined the game
+[20Mar2025 13:41:21.012] [Server thread/INFO] [Jade/]: Syncing config to Pakar (eea80351-7c0c-3fed-85aa-9c7a40859f5d)
+[20Mar2025 13:41:27.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pakar> Hay alguien
