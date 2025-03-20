@@ -98,3 +98,7 @@
 [20Mar2025 11:55:54.598] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yandrak12[/127.104.247.64:41151] logged in with entity id 66477 at (-420.5, 77.875, 327.5)
 [20Mar2025 11:55:54.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yandrak12 joined the game
 [20Mar2025 11:55:54.674] [Server thread/INFO] [Jade/]: Syncing config to Yandrak12 (9e1f7cf8-caa9-3e60-a176-d0322fb27436)
+[20Mar2025 12:53:12.735] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pakar lost connection: Disconnected
+[20Mar2025 12:53:12.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pakar left the game
+[20Mar2025 12:54:59.078] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yandrak12 lost connection: Disconnected
+[20Mar2025 12:54:59.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yandrak12 left the game
